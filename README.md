@@ -5,8 +5,8 @@ This code has not been tested with actual hardware yet so certain errors may be 
 There are certain libraries for the board/schematic(AutoDesk EAGLE) which I couldn't find online so I made those libraries and uploaded in the repo.
 
 # Sensors selected:
-MS5611 - Altitude/Pressure/Temperature
-Adafruit Ultimate Breakout - GPS receiver
-SPS30 - Dust Particle
-MS4525DO - Air Speed
-XBee S2C PRO - Telemetry
+1.MS5611 - Altitude/Pressure/Temperature
+2.Adafruit Ultimate Breakout - GPS receiver
+3.SPS30 - Dust Particle
+4.MS4525DO - Air Speed
+5.XBee S2C PRO - Telemetry
