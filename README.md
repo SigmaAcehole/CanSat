@@ -6,7 +6,11 @@ This code has not been tested with actual hardware.
 
 # Sensors selected:
 1.MS5611 - Altitude/Pressure/Temperature
+
 2.Adafruit Ultimate Breakout - GPS receiver
+
 3.SPS30 - Dust Particle
+
 4.MS4525DO - Air Speed
+
 5.XBee S2C PRO - Telemetry
