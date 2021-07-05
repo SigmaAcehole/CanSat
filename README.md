@@ -14,4 +14,4 @@ This code fulfils the problem statement of CanSat 2020 organized by American Ast
 # PCB Design
 |Board|Schematic|
 |:---:|:-------:|
-|
+|![PCB](https://user-images.githubusercontent.com/61357812/124433290-35a58080-dd90-11eb-8166-54a76ba38b0a.png)|![sche](https://user-images.githubusercontent.com/61357812/124433503-743b3b00-dd90-11eb-9ba8-01507593d89c.png)|
