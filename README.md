@@ -2,7 +2,6 @@
 My Teensy code for CanSat using Arduino IDE.
 My PCB schematics and design using AutoDesk Eagle.
 This code fulfils the problem statement of CanSat 2019 organized by American Astronautical Society (AAS).
-This code has not been tested with actual hardware.
 
 # Sensors selected:
 1.MS5611 - Altitude/Pressure/Temperature
